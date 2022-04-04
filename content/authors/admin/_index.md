@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gui-Feng Gao (高贵锋)
+title: Gui-Feng Gao
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,8 +44,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Gui-Feng-Gao-2
   label: Follow Me
-  display:
-    header: true
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -61,6 +60,8 @@ email: ""
 highlight_name: true
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+
+Gui-Feng Gao is an assistant professor of Ecology at the Institute of Soil Science, CAS. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 

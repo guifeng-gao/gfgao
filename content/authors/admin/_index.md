@@ -6,7 +6,7 @@ title: Gui-Feng Gao
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor of Ecology
+role: Assistant Researcher of Microbial Ecology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ bio: My research interests include microbial ecology and microbial biogeography.
 interests:
 - Microbial Ecology
 - Microbial Biogeography
-- Global change
+- Microbial Diversity
 
 # Education to show in About widget
 education:
@@ -62,6 +62,6 @@ highlight_name: true
 
 
 
-Gui-Feng Gao is an assistant professor of Ecology at the Institute of Soil Science, CAS. His research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gui-Feng Gao is an assistant researcher of microbial ecology at the Institute of Soil Science, CAS. His research interests include the biogeographic distributions of soil microbial communities in coastal wetlands, the spatial-temporal shifts in the structure and function of soil microbiome in response to environmental changes, particularly under sea level rise and plant invasion.
 
 
